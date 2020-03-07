@@ -1,5 +1,5 @@
 <h1 align="center">Add</h1>
-<p align="center"><b>Add</b> is a tiny commandline application to make file or folder easily.</p>
+<p align="center"><b>Add</b> is a tiny commandline application to make file or folder more easy.</p>
 
 ## ⚡️ Quickstart
 ```bash
