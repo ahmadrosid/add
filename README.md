@@ -10,7 +10,7 @@ Result :
 ```
 
 ## Installation ⚙️ 
-First of all you need to have `luarocks` installed see [Development](#development-).
+First of all you need to have `luarocks` installed.
 
 Installation is done by using `luarocks install` :
 ```bash
