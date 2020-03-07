@@ -7,6 +7,7 @@ end
 
 if not input then
 	print("please type filename")
+	do return end
 end
 
 for path in string.gmatch(input, "[^/]+") do

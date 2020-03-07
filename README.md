@@ -9,7 +9,7 @@ Result :
 │   └── nasi.lua
 ```
 
-## Installation ⚙️ 
+## ⚙️ Installation
 First of all you need to have `luarocks` installed.
 
 Installation is done by using `luarocks install` :
@@ -17,5 +17,5 @@ Installation is done by using `luarocks install` :
 luarocks install add
 ```
 
-## License 📄 
+## 📄 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
