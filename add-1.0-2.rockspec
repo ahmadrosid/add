@@ -1,5 +1,5 @@
 package = "add"
-version = "1.0-1"
+version = "1.0-2"
 source = {
    url = "git+ssh://git@github.com/ahmadrosid/add.git"
 }
